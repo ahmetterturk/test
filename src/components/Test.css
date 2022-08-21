@@ -1,0 +1,8 @@
+.container{
+  margin: 0 auto;
+  background: salmon;
+}
+
+.para{
+  border: 2px solid black;
+}
